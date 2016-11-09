@@ -231,7 +231,7 @@ $(function () {
   					<div class="carousel-inner" id="slide1">
   				
     					<div class="item active">
-     					 	<img class="slide-image" src="<c:url value='/resources/images/book1.jpg' />" alt="" />
+     					 	<img class="slide-image" src="<c:url value='/resources/images/horror-novels.jpg' />" alt="" />
      					 	
       					<div class="carousel-caption">
       				
@@ -245,7 +245,7 @@ $(function () {
     
     		 			<div class="item" id="slide2">
 		
-							<img class="slide-image" src="<c:url value='/resources/images/book2.png' />"  alt="OOH" />
+							<img class="slide-image" src="<c:url value='/resources/images/top5rom2.jpg' />"  alt="OOH" />
 							
 						<div class="carousel-caption">
 				
@@ -297,16 +297,16 @@ $(function () {
 							<div class="col-sm-4 col-md-3">
 								<h3>Categories</h3>
 								<div class="list-group">
-									<a href="category.html" class="list-group-item">Academic &amp;Professional</a>
-									<a href="category.html" class="list-group-item">Arts, Design and Photography</a>
-									<a href="category.html" class="list-group-item">Business &amp;Management</a>
-									<a href="category.html" class="list-group-item">Computers &amp; Internet</a>
-									<a href="category.html" class="list-group-item">Entertainment</a>
-									<a href="category.html" class="list-group-item">Cooking, Food &amp; Wine</a>
-									<a href="category.html" class="list-group-item">Luggage &amp; Bags</a>
-									<a href="category.html" class="list-group-item">Business & Investing</a>
-									<a href="category.html" class="list-group-item">Entrance Exams Preparation</a>
-									<a href="category.html" class="list-group-item">Children Books</a>
+									<a href="category.html" class="list-group-item">FICTION</a>
+									<a href="category.html" class="list-group-item">COMEDY</a>
+									<a href="category.html" class="list-group-item">DRAMA</a>
+									<a href="category.html" class="list-group-item">HORROR</a>
+									<a href="category.html" class="list-group-item">NON-FICTION</a>
+									<a href="category.html" class="list-group-item">REALISTIC FICTION</a>
+									<a href="category.html" class="list-group-item">ROMANCE NOVEL</a>
+									<a href="category.html" class="list-group-item">SATIRE</a>
+									<a href="category.html" class="list-group-item">BIOGRAPHY</a>
+									<a href="category.html" class="list-group-item">ACTION</a>
 								</div>
 							</div>
 										<!--1. Displaying Product Window Starts -->
@@ -317,13 +317,13 @@ $(function () {
 											<div class="col-sm-6 col-md-4">
 												
 												<div class="thumbnail">
-													<img src="<c:url value='/resources/images/book6.png' />" alt="">
+													<img src="<c:url value='/resources/images/imagesdav.jpg' />" alt="">
 														<div class="add-to-cart">
 															<a href="#" class="glyphicon glyphicon-plus-sign" data-toggle="tooltip" data-placement="top" title="Add to cart"></a>
 														</div>
 											<div class="caption">
 												<h4 class="pull-right">$24.99</h4>
-												<h4><a href="product.html">PUMA Red Scooter Books</a></h4>
+												<h4><a href="product.html">The Davinci Code</a></h4>
 												<p>Red Saint Hoodie With Contrast Raglan content.</p>
 													
 												<div class="ratings">
@@ -346,13 +346,13 @@ $(function () {
 									
 									<div class="col-sm-6 col-md-4">
 												<div class="thumbnail">
-													<img src="<c:url value='/resources/images/book7.png' />" alt="">
+													<img src="<c:url value='/resources/images/pink.jpg' />" alt="">
 														<div class="add-to-cart">
 															<a href="#" class="glyphicon glyphicon-plus-sign" data-toggle="tooltip" data-placement="top" title="Add to cart"></a>
 														</div>
 											<div class="caption">
 												<h4 class="pull-right">$50.99</h4>
-												<h4><a href="product.html">Halls Classic Stories</a></h4>
+												<h4><a href="product.html">Pink Fever</a></h4>
 												<p>This book is the perfect collection to your casual knowledge.</p>
 													
 												<div class="ratings">
@@ -375,13 +375,13 @@ $(function () {
 								
 									<div class="col-sm-6 col-md-4">
 												<div class="thumbnail">
-													<img src="<c:url value='/resources/images/book8.png' />" alt="">
+													<img src="<c:url value='/resources/images/gone-young-lady.jpg' />" alt="">
 														<div class="add-to-cart">
 															<a href="#" class="glyphicon glyphicon-plus-sign" data-toggle="tooltip" data-placement="top" title="Add to cart"></a>
 														</div>
 											<div class="caption">
 												<h4 class="pull-right">$119.99</h4>
-												<h4><a href="product.html">Belle Fille Coloured book </a></h4>
+												<h4><a href="product.html">Gone Young Lady </a></h4>
 												<p>Make your depth og knowledge with this trendy press from Belle Fille.</p>
 													
 												<div class="ratings">
@@ -404,13 +404,13 @@ $(function () {
 								
 									<div class="col-sm-6 col-md-4">
 												<div class="thumbnail">
-													<img src="<c:url value='/resources/images/book9.png' />" alt="">
+													<img src="<c:url value='/resources/images/book88.jpg' />" alt="">
 														<div class="add-to-cart">
 															<a href="#" class="glyphicon glyphicon-plus-sign" data-toggle="tooltip" data-placement="top" title="Add to cart"></a>
 														</div>
 											<div class="caption">
 												<h4 class="pull-right">$1224.99</h4>
-												<h4><a href="product.html">Magnus Chase & The Hammer Of Thor</a></h4>
+												<h4><a href="product.html">Luckiest Girl Alive</a></h4>
 												<p>All the titles clearly mention the approximate dispatch time from our warehouse.</p>
 													
 												<div class="ratings">
@@ -433,13 +433,13 @@ $(function () {
 								
 									<div class="col-sm-6 col-md-4">
 												<div class="thumbnail">
-													<img src="<c:url value='/resources/images/book10.jpg' />" alt="">
+													<img src="<c:url value='/resources/images/book101.jpg' />" alt="">
 														<div class="add-to-cart">
 															<a href="#" class="glyphicon glyphicon-plus-sign" data-toggle="tooltip" data-placement="top" title="Add to cart"></a>
 														</div>
 											<div class="caption">
 												<h4 class="pull-right">$2224.99</h4>
-												<h4><a href="product.html">J2EE Complete Guide Book</a></h4>
+												<h4><a href="product.html">The Godfather</a></h4>
 												<p>Lattest java SE7 added.Servlet and web container has been midified.</p>
 													
 												<div class="ratings">
@@ -462,17 +462,17 @@ $(function () {
 								
 									<div class="col-sm-6 col-md-4">
 												<div class="thumbnail">
-													<img src="<c:url value='/resources/images/book11.png' />" alt="">
+													<img src="<c:url value='/resources/images/book11.jpg' />" alt="">
 														<div class="add-to-cart">
 															<a href="#" class="glyphicon glyphicon-plus-sign" data-toggle="tooltip" data-placement="top" title="Add to cart"></a>
 														</div>
 											<div class="caption">
 												<h4 class="pull-right">$2044.99</h4>
-												<h4><a href="product.html">Pupil Workbook Edition4</a></h4>
+												<h4><a href="product.html">One Indian Girl </a></h4>
 												<p>This workbook give you immense room of making exercise for different branch.</p>
 													
 												<div class="ratings">
-													<p class="pull-right"><a href="product.html#comments">102 reviews</a></p>
+													<p class="pull-right"><a href="product.html#comments">150 reviews</a></p>
 														<p>
 															<span class="glyphicon glyphicon-star"></span>
 															<span class="glyphicon glyphicon-star"></span>
@@ -528,7 +528,7 @@ $(function () {
 						<footer>
 							<div class="row">
 								<div class="col-lg-12">
-								<p align="center">Copyright &copy; <a href="#">DevDarshan Book</a> 2016</p>
+								<p align="center">Copyright &copy; <a href="#">THE NOVEL STORE</a> 2016</p>
 								</div>
 							</div>
 						</footer>

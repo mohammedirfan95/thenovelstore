@@ -22,14 +22,14 @@
 <body>
 
 <div class="container-fluid" id="main">
-	<div class="navbar navbar-inverse navbar-fixed-top" style="background:#0000FF;">
+	<div class="navbar navbar-inverse navbar-fixed-top" style="background:#C0C0C0;">
 		<div class="container-fluid">
 		<div class="navbar-header">
-      		<a class="navbar-brand" href="#">BookCart</a>
+      		<a class="navbar-brand" href="#" style="color:black">THE NOVEL STORE</a>
    		 </div>
 			<ul class="nav navbar-nav ">
-				<li><a href="<c:url value='/home' />">Home</a></li>
-				<li><a href="<c:url value='/aboutUs'/>">About us</a></li>
+				<li><a href="<c:url value='/home' />" style="color:black">Home</a></li>
+				<li><a href="<c:url value='/aboutUs'/>" style="color:black">About us</a></li>
 				
 				<c:if test="${pageContext.request.userPrincipal.name !=null }">
 				
@@ -67,9 +67,9 @@
 				
 				<c:if test="${pageContext.request.userPrincipal.name ==null }">
 				
-							<li><a href="<c:url value="/login"></c:url>">Login</a></li>
+							<li><a href="<c:url value="/login"></c:url>" style="color:black">Login</a></li>
 							<c:url value="/customer/registration" var="url"></c:url>
-							<li><a href="${url }">Register</a></li>
+							<li><a href="${url }" style="color:black">Register</a></li>
 							
 				</c:if>
 				

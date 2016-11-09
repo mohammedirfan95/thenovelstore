@@ -468,8 +468,8 @@ $(function () {
 														</div>
 											<div class="caption">
 												<h4 class="pull-right">$2044.99</h4>
-												<h4><a href="product.html">Pupil Workbook Edition4</a></h4>
-												<p>This workbook give you immense room of making exercise for different branch.</p>
+												<h4><a href="product.html">Pupil Workbook</a></h4>
+											
 													
 												<div class="ratings">
 													<p class="pull-right"><a href="product.html#comments">102 reviews</a></p>
@@ -528,7 +528,7 @@ $(function () {
 						<footer>
 							<div class="row">
 								<div class="col-lg-12">
-								<p align="center">Copyright &copy; <a href="#">DevDarshan Book</a> 2016</p>
+								<p align="center">Copyright &copy; <a href="#">SPYEYEWEAR</a> 2016</p>
 								</div>
 							</div>
 						</footer>
